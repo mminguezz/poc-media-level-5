@@ -1,0 +1,17 @@
+{
+  "name": "css-level-5-a11y",
+  "version": "1.0.0",
+  "description": "Poc level 5 for a11y",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "author": "miguel.minguez.next@bbva.com",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
