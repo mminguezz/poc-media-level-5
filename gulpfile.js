@@ -9,7 +9,7 @@ gulp.task('default', function(){
   browserSync({
     files:  './',
     server: {
-      baseDir: './initializr/'
+      baseDir: './template/'
     },
     notify: false
   });
